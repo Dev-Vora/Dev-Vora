@@ -9,5 +9,5 @@
 - 😄 Pronouns: **He/His**
 
 ## States
-<img src="https://github-readme-stats.vercel.app/api?username=dev-vora&&show_icons=true&title_color=03dac5&icon_color=03dac5&text_color=151515&bg_color=fff">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-vora">
+<img src="https://github-readme-stats.vercel.app/api?username=Dev-Vora&&show_icons=true&title_color=03dac5&icon_color=03dac5&text_color=151515&bg_color=fff">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Vora">
