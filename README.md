@@ -1,13 +1,13 @@
-<h1 align="center">Hi there 👋, I'm Dev Vora</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=dev-vora&label=Profile%20views&color=0e75b6&style=flat" alt="dev-vora" /> </p>
-<p align="center">
+<h1 align="left">Hi there 👋, I'm Dev Vora</h1>
+<h3 align="left">A passionate Full Stack developer from India</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-vora&label=Profile%20views&color=0e75b6&style=flat" alt="dev-vora" /> </p>
+<p align="left">
   <img src="https://github.com/ShyamPraveenSingh/ShyamPraveenSingh/blob/master/me.gif" width=400 height=340>
   <img src="https://github.com/ShyamPraveenSingh/ShyamPraveenSingh/blob/master/new.gif" height=340/>
 </p>
 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dev-vora" alt="dev-vora" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dev-vora" alt="dev-vora" /></a> </p>
 
 - 🔭 I’m currently working as **freelancer**
 - 🌱 I’m currently learning **MERN Stack**
