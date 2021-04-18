@@ -1,10 +1,9 @@
 <h1 align="center">Hi there 👋, I'm Dev Vora</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
-<p align="left">
+<p align="center">
   <img src="https://github.com/ShyamPraveenSingh/ShyamPraveenSingh/blob/master/me.gif" width=400 height=340>
   <img src="https://github.com/ShyamPraveenSingh/ShyamPraveenSingh/blob/master/new.gif" height=340/>
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ShyamPraveenSingh" alt="ShyamPraveenSingh" /> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-vora&label=Profile%20views&color=0e75b6&style=flat" alt="dev-vora" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dev-vora" alt="dev-vora" /></a> </p>
@@ -30,3 +29,5 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-vora&show_icons=true&locale=en" alt="dev-vora" />
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-vora&" alt="dev-vora" />
+
+<img src="https://activity-graph.herokuapp.com/graph?username=Dev-Vora&theme=white&bg_color=ffffff00&color=878787&line=296dda&point=ffffff00&area=true&hide_border=true">
