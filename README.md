@@ -1,14 +1,13 @@
-### Hi there 👋
+## <center>Hello there, I'm Dev Vora 👋</center>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: [devvora99044@gmail.com](mailto:devvora99044@gmail.com)
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<img src"https://github-readme-stats.vercel.app/api?username=dev-vora&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+- 🔭 I’m currently working as **freelancer**
+- 🌱 I’m currently learning **MERN Stack**
+- 👯 I’m looking to collaborate on **github**
+- 💬 Ask me about **Web Development, Mobile App Development**
+- 📫 How to reach me: **[devvora99044@gmail.com](mailto:devvora99044@gmail.com)**
+- 😄 Pronouns: **He/His**
+
+## States
+<img src="https://github-readme-stats.vercel.app/api?username=dev-vora&&show_icons=true&title_color=03dac5&icon_color=03dac5&text_color=151515&bg_color=fff">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-vora">
