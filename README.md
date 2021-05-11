@@ -17,8 +17,12 @@
 - 😄 Pronouns: **He/His**
 
 ## Published Packages
-- [devs-unit-converter](https://www.npmjs.com/package/devs-unit-converter) </br>
+- **[devs-unit-converter](https://www.npmjs.com/package/devs-unit-converter)** </br>
 this package will help you in conversion of diffrent length units
+
+## Work
+- **[chat-app](https://chat-app-by-dev.herokuapp.com/)** </br> Join chat room with any random room number share that room number with your friend to join chat
+- **[weather-app](https://weather-app-by-dev.herokuapp.com/)** </br> Check weather of any city 
 
 ## Contact me
 
