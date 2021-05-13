@@ -36,10 +36,11 @@ this package will help you in conversion of diffrent length units
 
 ## Github States
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-vora&show_icons=true&locale=en&layout=compact" alt="dev-vora" />
-<br/>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-vora&show_icons=true&locale=en" alt="dev-vora" />
+<div align="top">
+  <img  src="https://github-readme-stats.vercel.app/api?username=dev-vora&show_icons=true&locale=en" alt="dev-vora" />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-vora&show_icons=true&locale=en&layout=compact" alt="dev-vora" />
+</div>
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-vora&" alt="dev-vora" />
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=dev-vora&" alt="dev-vora" />
 
 <img src="https://activity-graph.herokuapp.com/graph?username=Dev-Vora&theme=github&bg_color=ffffff00&color=878787&line=296dda&point=ffffff00&area=true&hide_border=true">
