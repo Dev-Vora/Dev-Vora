@@ -42,4 +42,4 @@ this package will help you in conversion of diffrent length units
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-vora&" alt="dev-vora" />
 
-<img src="https://activity-graph.herokuapp.com/graph?username=Dev-Vora&theme=white&bg_color=ffffff00&color=878787&line=296dda&point=ffffff00&area=true&hide_border=true">
+<img src="https://activity-graph.herokuapp.com/graph?username=Dev-Vora&theme=github&bg_color=ffffff00&color=878787&line=296dda&point=ffffff00&area=true&hide_border=true">
