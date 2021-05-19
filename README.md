@@ -18,7 +18,7 @@
 
 ## Published Packages
 - **[devs-unit-converter](https://www.npmjs.com/package/devs-unit-converter)** </br>
-this package will help you in conversion of diffrent length units
+this package will help you in conversion of diffrent length and time units
 
 ## Work
 - **[chat-app](https://chat-app-by-dev.herokuapp.com/)** </br> Join chat room with any random room number share that room number with your friend to join chat
