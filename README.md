@@ -6,7 +6,6 @@
   <img src="https://github.com/ShyamPraveenSingh/ShyamPraveenSingh/blob/master/new.gif" height=340/>
 </p>
 
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dev-vora" alt="dev-vora" /></a> </p>
 
 - 🔭 I’m currently working as **freelancer**
@@ -40,7 +39,5 @@ this package will help you in conversion of diffrent length and time units
   <img  src="https://github-readme-stats.vercel.app/api?username=dev-vora&show_icons=true&locale=en" alt="dev-vora" />
   <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-vora&show_icons=true&locale=en&layout=compact" alt="dev-vora" />
 </div>
-
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=dev-vora&" alt="dev-vora" />
-
 <img src="https://activity-graph.herokuapp.com/graph?username=Dev-Vora&theme=github&bg_color=ffffff00&color=878787&line=296dda&point=ffffff00&area=true&hide_border=true">
