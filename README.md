@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dev-vora" alt="dev-vora" /></a> </p>
 
-- 🔭 I’m currently working as **freelancer**
+- 🔭 I’m currently working as **Freelancer**
 - 🌱 I’m currently learning **MERN Stack**
-- 👯 I’m looking to collaborate on **github**
+- 👯 I’m looking to collaborate on **Github**
 - 💬 Ask me about **Web Development, Mobile App Development**
 - 📫 How to reach me: **[devvora99044@gmail.com](mailto:devvora99044@gmail.com)**
 - 😄 Pronouns: **He/His**
