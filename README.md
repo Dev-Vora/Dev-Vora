@@ -5,9 +5,7 @@
   <img src="https://github.com/ShyamPraveenSingh/ShyamPraveenSingh/blob/master/me.gif" width=400 height=340>
   <img src="https://github.com/ShyamPraveenSingh/ShyamPraveenSingh/blob/master/new.gif" height=340/>
 </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dev-vora" alt="dev-vora" /></a> </p>
-
 - 🔭 I’m currently working as **Freelancer**
 - 🌱 I’m currently learning **MERN Stack**
 - 👯 I’m looking to collaborate on **Github**
